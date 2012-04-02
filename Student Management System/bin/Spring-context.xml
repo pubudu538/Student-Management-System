@@ -9,8 +9,8 @@ http://www.springframework.org/schema/util http://www.springframework.org/schema
 
 <bean id="sms" class="studentmanagement.StudentManagementSystem"/>
 
-<bean id="student1" class="studentmanagement.Student" p:index="104567" p:firstName="John" p:lastName="Nash" p:address="Princetown,New Jersey" p:level="3" p:gpa="3.98" />
-        <bean id="student2" class="studentmanagement.Student" p:index="108542" p:firstName="Dan" p:lastName="Carter" p:address="Wellington,New Zealnad" p:level="1" p:gpa="2.7" />
-        <bean id="student3" class="studentmanagement.Student" p:index="520114" p:firstName="Thomas" p:lastName="Beckett" p:address="California,West Coast" p:level="4" p:gpa="3.4" />
+<bean id="student1" class="studentmanagement.Student" p:index="100166" p:firstName="Pubudu" p:lastName="Chinthaka" p:address="Colombo Road,Ratmalana" p:level="3" p:gpa="3.4" />
+        <bean id="student2" class="studentmanagement.Student" p:index="105542" p:firstName="Dilhan" p:lastName="Perera" p:address="Galle Road,Dehiwala" p:level="1" p:gpa="4.0" />
+        <bean id="student3" class="studentmanagement.Student" p:index="524114" p:firstName="Kasun" p:lastName="Gunasinghe" p:address="Anderson Road,Kohuwala" p:level="4" p:gpa="3.8" />
 
 </beans>
